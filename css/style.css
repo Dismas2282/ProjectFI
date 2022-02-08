@@ -1,0 +1,63 @@
+/* Import Google Fonts */
+@import url('http://fonts.googleapis.com/css?family=Montserrat');
+
+
+.form-div{
+    margin: 50px auto 50px;
+    padding: 25px 15px 10px 15px;
+    border: 1px solid #80ced7;
+    border-radius: 5px;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.form-control:focus{
+    box-shadow: none;
+}
+
+.form p{
+    font-size: .89em;
+}
+
+.form-div.login{
+    margin-top: 100px;
+}
+
+.logout{
+    
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+.logout:hover{
+    background-color: red;
+
+}
+
+.btn.btn-block.btn-lg.btn-primary{
+    padding-top: 5%;
+    padding-right: 30%;
+    padding-bottom: 5%;
+    padding-left: 30%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    width: 84%;
+    border-radius: 0.5rem;
+    justify-items: center;
+    margin-left: 8%;
+    background-color: rgb(158, 215, 250);
+
+}
+
+
+
+
+

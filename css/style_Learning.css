@@ -1,0 +1,145 @@
+.row.content{
+    justify-content: center;
+}
+
+.list-group {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-bottom: 0;
+    border-radius: 0.25rem;
+    
+}
+
+.sidenav_left{
+    border-radius: 0.5rem;
+    margin-left: 1%;
+
+}
+
+.sidenav_right{
+    border-radius: 0.5rem;
+    margin-right: 1%;
+    
+}
+
+.flashcards-input{
+    
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+
+    width: auto;
+    
+
+    border-radius: 0.5rem;
+    border-color: lightskyblue;
+    border-style: groove;
+    text-decoration: none;
+    text-align: center;
+    padding: 150px;
+
+}
+
+.flashcards-input:hover{
+
+    background-color: rgba(210, 236, 251, 0.424);
+
+}
+
+.form-btn{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.btn-yes{
+    width: 45%;
+    padding: 5px;
+    transition-property: width;
+    transition-duration: 2s;
+
+}
+
+.btn.btn-success{
+    width: 90%;
+    height: 60px;
+}
+
+.btn.btn-danger{
+    width: 90%;
+    height: 60px;
+
+}
+
+.btn-no{
+    width: 45%;
+    padding: 5px;
+    transition: width 2s;
+    
+}
+.buttons{
+    justify-content: center;
+    display: flex;
+
+ 
+
+}
+
+.btn-no:hover{
+    width: 55%;
+    height: 55%;
+
+}
+.btn-yes:hover{
+    width: 55%;
+
+}
+
+
+.btn-next{
+    width: 100%;
+    padding: 5px;
+    
+
+
+}
+.btn.btn-primary{
+    width: 80%;
+    height: 100%;
+    padding: 5px;
+    transition: width 2s;
+
+}
+.btn.btn-primary:hover{
+    width: 100%;
+
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    width: 84%;
+    border-radius: 0.5rem;
+    justify-items: center;
+    margin-left: 8%;
+    background-color: rgb(158, 215, 250);
+
+}
+.logout{
+    
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+.logout:hover{
+    background-color: red;
+
+}
+
+

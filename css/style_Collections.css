@@ -1,0 +1,188 @@
+.logout{
+    
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25%;
+    
+}
+.logout:hover{
+    background-color: red;
+
+}
+
+
+.row.content{
+    justify-content: center;
+}
+
+.list-group {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-bottom: 0;
+    border-radius: 0.25rem;
+    
+}
+
+.sidenav_left{
+    border-radius: 0.5rem;
+    margin-left: 1%;
+
+}
+
+.sidenav_right{
+    border-radius: 0.5rem;
+    margin-right: 1%;
+    
+}
+
+
+
+.list-group-item.list-group-item-action.flex-column.align-items-start.active{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.list-group-item.list-group-item-action.flex-column.align-items-start{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.form-floating.col-sm-8{
+
+    margin-top: 1%;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+
+.btn.btn-primary.col-sm-2{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.alert.alert-danger{
+
+    margin: 1% 10% 1% 10%;
+}
+
+.alert.alert-success{
+
+    margin: 1% 10% 1% 10%;
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
+.form-floating.col-sm-8{
+    margin-right: 3px;
+    margin-left: 3px;
+    
+}
+.studyflashcards{
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+    width: auto;
+    height: 225px;
+
+    border-radius: 0.5rem;
+    border-color: lightskyblue;
+    border-style: groove;
+    text-decoration: none;
+
+}
+.h1study{
+    margin: 10% 10% 10% 10%;
+
+    color: lightskyblue;
+    
+}
+.studyflashcards:hover{
+    background-color: rgba(210, 236, 251, 0.424);
+}
+
+.input.con1{
+
+    width: 50%;
+    
+}
+
+.inputContainer{
+    justify-content: center;
+}
+
+.fileinput{
+    width: 50%;
+    
+}
+
+.form-control{
+
+    width: 100%;
+    justify-self: left;
+    margin: 2% 2%;
+
+
+}
+
+.h6user{
+    text-align: left;
+    margin-left: 5%;
+
+}
+
+.h6email{
+    text-align: left;
+    margin-left: 5%;
+
+
+}
+
+.h6pass{
+    text-align: left;
+    margin-left: 5%;
+
+
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    width: 84%;
+    border-radius: 0.5rem;
+    justify-items: center;
+    margin-left: 8%;
+    background-color: rgb(158, 215, 250);
+
+}
+
+.badge.bg-primary.rounded-pill{
+
+    position:absolute;
+    bottom: 5px;;
+    right:0px;
+
+}
+.logout{
+    
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+.logout:hover{
+    background-color: red;
+
+}
